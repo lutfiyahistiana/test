@@ -9,3 +9,5 @@ satu
 testd
 rhdh
 d
+dd
+sw
